@@ -1,0 +1,4 @@
+build/
+target/
+elm-stuff/
+node_modules/
